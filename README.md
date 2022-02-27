@@ -16,6 +16,8 @@ How many neurons, layers, and activation functions did you select for your neura
 Were you able to achieve the target model performance?
 * My model was close to the goal of 75%.  It was at 73%. 
 
+![image](https://github.com/icheung487/Neural_Network_Charity_Analysis/blob/main/Images/Model_results.png)
+
 What steps did you take to try and increase model performance?
 * I tried to increase my layers, which caused a decrease in my accuracy. 
 
