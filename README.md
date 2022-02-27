@@ -11,6 +11,8 @@ What variable(s) are considered the target(s) for your model?
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 * For my neural network model, I had 2 hidden layers.  My first layer was 8 and second layer 5. 
 
+![image](https://github.com/icheung487/Neural_Network_Charity_Analysis/blob/main/Images/Model.png)
+
 Were you able to achieve the target model performance?
 * My model was close to the goal of 75%.  It was at 73%. 
 
