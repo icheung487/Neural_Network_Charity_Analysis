@@ -17,5 +17,5 @@ Were you able to achieve the target model performance?
 What steps did you take to try and increase model performance?
 * I tried to increase my layers, which caused a decrease in my accuracy. 
 
-#Summary: 
+# Summary: 
 * After optimization, my accuracy score declined so the initial model provided a better results than after the optimization. This was proabably due to overfitting.  
